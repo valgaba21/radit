@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/general">
+    <file>iconos/menu/desmarcar.png</file>
+    <file>iconos/menu/encadenar.png</file>
+    <file>iconos/menu/marcarverdes.png</file>
+    <file>iconos/menu/ocultar.png</file>
+    <file>iconos/menu/papelera.png</file>
+    <file>iconos/menu/flecha.png</file>
+    <file>iconos/player/loop.png</file>
+    <file>iconos/menu/lupa.png</file>
+    <file>iconos/menu/filenew.png</file>
+    <file>iconos/player/ico.png</file>
+    <file>iconos/menu/preferencias.png</file>
+    <file>iconos/player/avance.png</file>
+    <file>iconos/player/retroceso.png</file>
+    <file>iconos/player/stop.png</file>
+    <file>iconos/player/pause.png</file>
+    <file>iconos/player/play.png</file>
+    <file>iconos/radit.ico</file>
+  </qresource>
+</RCC>
